@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 Hello! After graduating political psychology in the University of Amsterdam I decided to learn web development. 
-<p>I am very excited to have started this journey as a developer and to keep progressing in the programming languages I like</p>
+<p>I am very excited to have started this journey as a developer and to keep progressing in the programming languages I like.</p>
 
 ### Skills
 
