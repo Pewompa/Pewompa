@@ -6,7 +6,6 @@ Full Stack Developer
 
 Welcome to my <b>GitHub</b> page 
 <ul>
-  <li>&#127758; Based in Barcelona but willing to rellocate</li>
   <li>&#129504; I'm learning <b>React</b>, <b>Angular</b> and <b>Nest.js</b></li>
   <li>&#129309; Open for project collaboarations on both front and back end</li>
   <li>&#128231; Send me an email at <a href = "mailto: bernatpavon@gmail.com">bernatpavon@gmail.com</a></li>
